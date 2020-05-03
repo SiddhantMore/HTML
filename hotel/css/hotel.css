@@ -1,0 +1,81 @@
+body{
+	background-color: white;
+}
+#header-nav{
+	background-color:cyan;
+	border-radius: 0
+	border:0;
+}
+.navbar-brand{
+	font-style: Sans-serif;
+	font-weight: bold;
+	font-size: 40px;
+	text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+    padding: 10px 10px 10px 60px;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+
+
+h2 {
+	font-family: comic sans MS;
+	
+	font-size: 3.5em;
+}
+p {
+	padding: 15px;
+	margin: 0;
+}
+section{
+	background-color: grey;
+	border: 3px solid black;
+}
+
+.container {
+	width: 100%;
+	font-size: 1.4em;
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 50px;
+}
+
+#chicken{
+	text-align: center;
+	font-size: :2em;
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: bold;
+
+}
+#beef{
+	text-align: center;
+	font-size: :2em;
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: bold;
+}
+#Sushi{
+	text-align: center;
+	font-size: :2em;
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: bold;
+}
+
+
+
+
+  
+
